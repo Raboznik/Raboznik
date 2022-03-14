@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/Raboznik" target="_blank">Maksim!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">QA automation engineer</h3>
+
+
 
 <!--
 **Raboznik/Raboznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
