@@ -21,7 +21,7 @@
  </div>
    
 <div style="text-align: center;">
-<li> I do like cofee :coffee: and automation 🤖</li>
+<li> I like cofee :coffee: and automation 🤖</li>
 <li> I don't like coconut 🥥 and laziness 🦥</li> 
 </p> </div> 
 
